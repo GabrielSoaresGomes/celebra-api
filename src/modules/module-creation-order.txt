@@ -1,0 +1,7 @@
+0 - Schema + Migration
+1 - Enums se precisar
+2 - Entity
+3 - DTO's
+4 - Repository + Imp
+5 - Service
+6 - Controller
